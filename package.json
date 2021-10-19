@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BenM-Mycelium/ZapperBot/issues"
   },
-  "homepage": "https://github.com/BenM-Mycelium/ZapperBot#readme"
+  "homepage": "https://github.com/BenM-Mycelium/ZapperBot#readme",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
 }
