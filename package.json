@@ -1,0 +1,19 @@
+{
+  "name": "zapperbot",
+  "version": "1.0.0",
+  "description": "Nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenM-Mycelium/ZapperBot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenM-Mycelium/ZapperBot/issues"
+  },
+  "homepage": "https://github.com/BenM-Mycelium/ZapperBot#readme"
+}
