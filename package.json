@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BenM-Mycelium/ZapperBot#readme",
   "dependencies": {
+    "axios": "^0.23.0",
     "web3": "^1.6.0"
   }
 }
